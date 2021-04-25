@@ -1,0 +1,16 @@
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\LabAssignment.exe
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\LabAssignment.deps.json
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\LabAssignment.runtimeconfig.json
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\LabAssignment.runtimeconfig.dev.json
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\LabAssignment.dll
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\ref\LabAssignment.dll
+C:\Users\Bernice\Desktop\LabAssignment\bin\Debug\net5.0\LabAssignment.pdb
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.csprojAssemblyReference.cache
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.AssemblyInfoInputs.cache
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.AssemblyInfo.cs
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.dll
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\ref\LabAssignment.dll
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.pdb
+C:\Users\Bernice\Desktop\LabAssignment\obj\Debug\net5.0\LabAssignment.genruntimeconfig.cache
